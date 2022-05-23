@@ -1,3 +1,4 @@
+// This test is for testing multiplication numbers
 const assert = require('chai').assert;
 const multiply = require('../multiply');
 
